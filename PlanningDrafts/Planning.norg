@@ -1,0 +1,6 @@
+* The options for relation between server and backend for capturing
+ ** Phone writes directly to file and then syncs to server when possible
+ ** Phone sends tasks to server for server to process.
+ ** will likely choose second option due to more flexibility in choosing where to sync to; ex: instead of a server it could just sync to the computer when possible
+
+
